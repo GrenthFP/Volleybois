@@ -1,0 +1,15 @@
+
+table{
+  display: inline-block;
+  
+  width:100%;
+  border-collapse: collapse;}
+ th, td {
+  border: 1px solid black;
+  border-collapse: collapse;}
+th, td{
+  padding: 5px;
+  text-align: left;}
+.player_unit_frame,.general_frame {
+  display: inline;
+}
